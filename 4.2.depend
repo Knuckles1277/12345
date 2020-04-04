@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1586005977 source:g:\users\Рома\desktop\4.1\main.cpp
+	<iostream>
+	"Book.h"
+	<string>
+	<stdlib.h>
+
+1586002262 g:\users\Рома\desktop\4.1\book.h
+	<string>
+
+1586003483 source:g:\users\Рома\desktop\4.1\book.cpp
+	<iostream>
+	"Book.h"
+	<string>
+	<cstring>
+
+1583821360 source:e:\4.1\book.cpp
+	<iostream>
+	"Book.h"
+	<string>
+	<cstring>
+
+1583821360 e:\4.1\book.h
+	<string>
+
+1583821380 source:e:\4.1\main.cpp
+	<iostream>
+	"Book.h"
+	<string>
+	<stdlib.h>
+
